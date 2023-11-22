@@ -1,4 +1,4 @@
-package lk.ijse.dep11.api;
+package lk.ijse.dep11.ims.api;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
